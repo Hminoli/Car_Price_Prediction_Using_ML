@@ -91,6 +91,8 @@ Several machine learning models used :
 ## Results
 - There is no evidence of multicollinearity
 - Linear Regression achieved the highest accuracy
+  ![image](https://github.com/user-attachments/assets/80bb67b0-4c28-4564-8a9b-e575bf0be8c7)
+
 - Selected features and their coefficients in the final model (R squard = 0.871626):
 
 Intercept: -297,152.98
