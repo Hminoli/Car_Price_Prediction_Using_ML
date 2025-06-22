@@ -90,7 +90,11 @@ Several machine learning models used :
 
 ## Results
 - There is no evidence of multicollinearity
+
+  ![image](https://github.com/user-attachments/assets/a3a9f8eb-0b20-43d2-b37a-894d49ae0c74)
+
 - Linear Regression achieved the highest accuracy
+  
   ![image](https://github.com/user-attachments/assets/986b05b4-68a4-4181-9c53-0633af158f96)
 
 
